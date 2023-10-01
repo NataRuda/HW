@@ -2,7 +2,7 @@
 <html>
 <style>
 .cat {
-  background-color: #FF9900;
+  background-color: green;
   color: white;
   border: 2px solid black;
   margin: 0px;
